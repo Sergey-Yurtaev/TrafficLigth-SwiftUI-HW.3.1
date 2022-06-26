@@ -11,6 +11,8 @@
 		4B3831AF28682FB3006D8E83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3831AE28682FB3006D8E83 /* ContentView.swift */; };
 		4B3831B128682FB4006D8E83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B3831B028682FB4006D8E83 /* Assets.xcassets */; };
 		4B3831B428682FB4006D8E83 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B3831B328682FB4006D8E83 /* Preview Assets.xcassets */; };
+		4B3831BB2868302E006D8E83 /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3831BA2868302E006D8E83 /* ColorCircle.swift */; };
+		4B3831BD2868F8EE006D8E83 /* ChangeColorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3831BC2868F8EE006D8E83 /* ChangeColorButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		4B3831AE28682FB3006D8E83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4B3831B028682FB4006D8E83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B3831B328682FB4006D8E83 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4B3831BA2868302E006D8E83 /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
+		4B3831BC2868F8EE006D8E83 /* ChangeColorButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeColorButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +56,9 @@
 			isa = PBXGroup;
 			children = (
 				4B3831AC28682FB3006D8E83 /* TrafficLigth_SwiftUI_HW_3_1App.swift */,
+				4B3831BC2868F8EE006D8E83 /* ChangeColorButton.swift */,
 				4B3831AE28682FB3006D8E83 /* ContentView.swift */,
+				4B3831BA2868302E006D8E83 /* ColorCircle.swift */,
 				4B3831B028682FB4006D8E83 /* Assets.xcassets */,
 				4B3831B228682FB4006D8E83 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				4B3831AF28682FB3006D8E83 /* ContentView.swift in Sources */,
 				4B3831AD28682FB3006D8E83 /* TrafficLigth_SwiftUI_HW_3_1App.swift in Sources */,
+				4B3831BB2868302E006D8E83 /* ColorCircle.swift in Sources */,
+				4B3831BD2868F8EE006D8E83 /* ChangeColorButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
