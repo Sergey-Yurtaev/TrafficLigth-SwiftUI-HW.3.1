@@ -14,7 +14,7 @@ enum CurrentLigth {
 struct ContentView: View {
     @State private var currentColor = CurrentLigth.red
     @State private var textButton = "START"
-    @State private var textLabel = "red"
+    @State private var textLabel = "\(CurrentLigth.red)"
     
 //    @State private var redColor = ColorCircle(color: .red, opacity: 0.2) // first version
 //    @State private var yellowColor = ColorCircle(color: .yellow, opacity: 0.2)
